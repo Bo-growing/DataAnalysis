@@ -1,0 +1,96 @@
+Attribute,Category,Count,Percent
+Gender,Female,8327,50.09
+Gender,Male,8298,49.91
+Customer Type,Loyal Customer,13535,81.41
+Customer Type,disloyal Customer,3090,18.59
+Type of Travel,Business travel,11525,69.32
+Type of Travel,Personal Travel,5100,30.68
+satisfaction,neutral or dissatisfied,9421,56.67
+satisfaction,satisfied,7204,43.33
+Class,Business,7974,47.96
+Class,Eco,7404,44.54
+Class,Eco Plus,1247,7.5
+Inflight wifi service,3,4106,24.7
+Inflight wifi service,2,4040,24.3
+Inflight wifi service,4,3189,19.18
+Inflight wifi service,1,2926,17.6
+Inflight wifi service,5,1914,11.51
+Inflight wifi service,0,450,2.71
+Departure/Arrival time convenient,4,4081,24.55
+Departure/Arrival time convenient,5,3654,21.98
+Departure/Arrival time convenient,3,2869,17.26
+Departure/Arrival time convenient,2,2717,16.34
+Departure/Arrival time convenient,1,2496,15.01
+Departure/Arrival time convenient,0,808,4.86
+Ease of Online booking,3,3895,23.43
+Ease of Online booking,2,3761,22.62
+Ease of Online booking,4,3145,18.92
+Ease of Online booking,1,2814,16.93
+Ease of Online booking,5,2317,13.94
+Ease of Online booking,0,693,4.17
+Gate location,3,4586,27.58
+Gate location,4,3878,23.33
+Gate location,2,3055,18.38
+Gate location,1,2829,17.02
+Gate location,5,2277,13.7
+Gate location,0,0,0.0
+Food and drink,4,3913,23.54
+Food and drink,3,3589,21.59
+Food and drink,5,3580,21.53
+Food and drink,2,3415,20.54
+Food and drink,1,2112,12.7
+Food and drink,0,16,0.1
+Online boarding,4,4878,29.34
+Online boarding,3,3523,21.19
+Online boarding,5,3334,20.05
+Online boarding,2,2785,16.75
+Online boarding,1,1721,10.35
+Online boarding,0,384,2.31
+Seat comfort,4,4988,30.0
+Seat comfort,5,4270,25.68
+Seat comfort,3,3055,18.38
+Seat comfort,2,2327,14.0
+Seat comfort,1,1985,11.94
+Seat comfort,0,0,0.0
+Inflight entertainment,4,4712,28.34
+Inflight entertainment,5,4043,24.32
+Inflight entertainment,3,3079,18.52
+Inflight entertainment,2,2744,16.51
+Inflight entertainment,1,2045,12.3
+Inflight entertainment,0,2,0.01
+On-board service,4,4966,29.87
+On-board service,5,3882,23.35
+On-board service,3,3566,21.45
+On-board service,2,2331,14.02
+On-board service,1,1879,11.3
+On-board service,0,1,0.01
+Leg room service,4,4722,28.4
+Leg room service,5,3942,23.71
+Leg room service,3,3128,18.82
+Leg room service,2,3007,18.09
+Leg room service,1,1750,10.53
+Leg room service,0,76,0.46
+Baggage handling,4,5939,35.72
+Baggage handling,5,4384,26.37
+Baggage handling,3,3371,20.28
+Baggage handling,2,1788,10.75
+Baggage handling,1,1143,6.88
+Baggage handling,0,0,0.0
+Checkin service,3,4591,27.62
+Checkin service,4,4565,27.46
+Checkin service,5,3313,19.93
+Checkin service,2,2092,12.58
+Checkin service,1,2064,12.42
+Checkin service,0,0,0.0
+Inflight service,4,6227,37.46
+Inflight service,5,4300,25.86
+Inflight service,3,3182,19.14
+Inflight service,2,1783,10.72
+Inflight service,1,1132,6.81
+Inflight service,0,1,0.01
+Cleanliness,4,4303,25.88
+Cleanliness,3,3953,23.78
+Cleanliness,5,3680,22.14
+Cleanliness,2,2535,15.25
+Cleanliness,1,2153,12.95
+Cleanliness,0,1,0.01
